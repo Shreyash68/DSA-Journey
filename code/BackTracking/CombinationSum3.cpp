@@ -4,6 +4,10 @@
 
 using namespace std;
 
+// int solve2(int num[]){
+    
+
+// }
 
 vector<vector<int>> solve(int target,int k, int i, vector<int> &ans, vector<vector<int>> &res)
 {
